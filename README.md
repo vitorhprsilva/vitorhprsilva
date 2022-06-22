@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como full stack
 - 🌱 utilizo typescript e javscript
-- 😄 Pronouns: ele:dele
+- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/vitorhprsilva">
