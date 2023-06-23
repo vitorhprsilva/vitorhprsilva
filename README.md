@@ -1,7 +1,7 @@
 ### Olá eu sou o Vitor Hugo 🧶
 
 - 🔭 Hoje trabalho como full stack
-- 🌱 utilizo typescript e javscript
+- 🌱 utilizo TypeScript, JavaScript e Java
 - 😄 Pronouns: ele/dele
 
 <!-- <div>
